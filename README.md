@@ -212,7 +212,9 @@ Computer Science Student focused on Artificial Intelligence, Machine Learning, a
 
 # Connect With Me
 
-* LinkedIn: Add your LinkedIn profile link
-* GitHub: Add your GitHub profile link
+* LinkedIn: https://www.linkedin.com/in/edafe-erikefe-3a0387359?utm_source=share_via&utm_content=profile&utm_medium=member_android
+  
+* GitHub: https://github.com/user1g88893
+  
 
 Learning. Building. Evolving.
